@@ -1,0 +1,11 @@
+body{ 
+    background-image: url('bonimage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo-align{display: flex;flex-direction: row;}
+
+.logo-text-align{
+    display: flex;
+    align-items: center;
+}
